@@ -10,7 +10,7 @@ Method that StructureData utilis in the workflow in the public area.
 - size
 - isEmpty
 
-The method "Add"
+__The method "Add"__
   
   
   
