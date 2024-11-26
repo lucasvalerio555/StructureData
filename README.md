@@ -2,7 +2,7 @@
 
 Method that StructureData utilis in the workflow in the public area.
 
-- [add]()
+- [add](The medthod Add)
 - [remove]()
 - [showData]()
 - [clear]()
@@ -10,6 +10,7 @@ Method that StructureData utilis in the workflow in the public area.
 - [size]()
 - [isEmpty]()
 
+The medthod Add
   
   
   
